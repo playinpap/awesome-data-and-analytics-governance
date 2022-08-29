@@ -4,31 +4,21 @@
 
 - [[Article] 데이터 로그 설계, 데이터 로깅, 이벤트 로그 설계, 데이터 QA의 모든 것](https://zzsza.github.io/data/2021/06/13/data-event-log-definition/)
 
-<br/>
-
 ## Data Warehouse / Mart
 
 - [[Book] Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling, 3rd Edition](https://www.amazon.com/Data-Warehouse-Toolkit-Definitive-Dimensional/dp/1118530802)
 - [[Article] The Analytics Engineering Guide](https://www.getdbt.com/analytics-engineering/)
 - [[Article] GitLab - SQL Style Guide](https://about.gitlab.com/handbook/business-technology/data-team/platform/sql-style-guide/)
 
-<br/>
-
 ## Data Discovery
 
 - [[Article] 데이터 디스커버리 플랫폼 도입기 - 1편. 데이터 디스커버리란?(feat. Datahub VS Amundsen 비교 분석)](https://tech.socarcorp.kr/data/2022/02/25/data-discovery-platform-01.html)
 
-<br/>
-
 ## Data Quality Assurance
-
-<br/>
 
 ## KPI / Metric
 
 - [[Web Site] DMR - Your Home for Statistics and Gadgets](https://expandedramblings.com/)
-
-<br/>
 
 ## Communication
 
