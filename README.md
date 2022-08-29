@@ -14,8 +14,6 @@
 
 - [[Article] 데이터 디스커버리 플랫폼 도입기 - 1편. 데이터 디스커버리란?(feat. Datahub VS Amundsen 비교 분석)](https://tech.socarcorp.kr/data/2022/02/25/data-discovery-platform-01.html)
 
-## Data Quality Assurance
-
 ## KPI / Metric
 
 - [[Web Site] DMR - Your Home for Statistics and Gadgets](https://expandedramblings.com/)
