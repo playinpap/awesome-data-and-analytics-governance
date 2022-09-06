@@ -1,13 +1,20 @@
 # Awesome `Data Governance`
 
+데이터 거버넌스 개선을 위한 여러가지 질문들에 답할 수 있는 자료들을 수집합니다.
+
 ## Data Logging
 
+- 어떻게 하면 품질 좋은 데이터 수집을 위한 문화와 프로세스를 만들어나갈 수 있을까요?
+  
 |Type   |Title            |
 |-------|-----------------|
 |Article|[데이터 로그 설계, 데이터 로깅, 이벤트 로그 설계, 데이터 QA의 모든 것](https://zzsza.github.io/data/2021/06/13/data-event-log-definition/)|
 
 
 ## Data Warehouse / Mart
+
+- 안정적이고 신뢰할 수 있는 데이터 파이프라인을 설계하기 위해선 어떻게 해야할까요?
+- 데이터 분석에 용이한 형태로 데이터 구조를 설계할 순 없을까요?
 
 |Type   |Title            |
 |-------|-----------------|
@@ -18,12 +25,16 @@
 
 ## Data Discovery
 
+- 수많은 데이터 중, 사용자들이 원하는 데이터를 빠르고 정확하게 찾기 위해선 어떻게 해야할까요?
+
 |Type   |Title            |
 |-------|-----------------|
 |Article|[데이터 디스커버리 플랫폼 도입기 - 1편. 데이터 디스커버리란?(feat. Datahub VS Amundsen 비교 분석)](https://tech.socarcorp.kr/data/2022/02/25/data-discovery-platform-01.html)|
 
 
 ## KPI / Metric
+
+- 좋은 정량적인 목표, 지표를 개발하기 위해선 어떻게 해야할까요?
 
 |Type   |Title            |
 |-------|-----------------|
@@ -32,6 +43,8 @@
 
 ## Communication
 
+- 올바른 데이터 활용을 위해 여러 직군끼리 어떻게 협업해야 할까요?
+  
 |Type   |Title            |
 |-------|-----------------|
 |Article|[지표선정 자리에서 해야하는 5가지 질문들 — Data Analyst의 컨설팅](https://medium.com/alexandersyoon/%EC%A7%80%ED%91%9C%EC%84%A0%EC%A0%95-%EC%9E%90%EB%A6%AC%EC%97%90%EC%84%9C-%ED%95%B4%EC%95%BC%ED%95%98%EB%8A%94-5%EA%B0%80%EC%A7%80-%EC%A7%88%EB%AC%B8%EB%93%A4-data-analyst-%EC%9D%98-%EC%BB%A8%EC%84%A4%ED%8C%85-f7012d61a572)|
