@@ -1,4 +1,4 @@
-# Awesome `Data Governance`
+# Awesome `Data Governance` [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 데이터 거버넌스 개선을 위한 여러가지 질문들에 답할 수 있는 자료들을 수집합니다.
 
