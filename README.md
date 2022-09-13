@@ -56,6 +56,8 @@
 |Type   |Title            |
 |-------|-----------------|
 |`Web Site`|[DMR - Your Home for Statistics and Gadgets](https://expandedramblings.com/)|
+|`Video`|[Connecting Inputs to Outputs at Udemy](https://amplitude.com/amplify-sessions?wchannelid=emyjmwjf79&wmediaid=rg1ahklebd)|
+
 
 <br/>
 <br/>
