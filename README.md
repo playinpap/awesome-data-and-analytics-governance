@@ -14,6 +14,7 @@
 |Type   |Title            |
 |-------|-----------------|
 |`Article`|[데이터 로그 설계, 데이터 로깅, 이벤트 로그 설계, 데이터 QA의 모든 것](https://zzsza.github.io/data/2021/06/13/data-event-log-definition/)|
+|`Article`|[모바일 앱 로그분석, 어떻게 시작해야 할까?](https://brunch.co.kr/@leoyang99/15)|
 
 <br/>
 <br/>
