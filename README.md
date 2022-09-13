@@ -28,6 +28,8 @@
 |`Book`   |[Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling, 3rd Edition](https://www.amazon.com/Data-Warehouse-Toolkit-Definitive-Dimensional/dp/1118530802)|
 |`Article`|[The Analytics Engineering Guide](https://www.getdbt.com/analytics-engineering/)|
 |`Article`|[GitLab - SQL Style Guide](https://about.gitlab.com/handbook/business-technology/data-team/platform/sql-style-guide/)|
+|`Article`|[데이터에 신뢰성과 재사용성까지, Analytics Engineering with dbt](https://tech.socarcorp.kr/data/2022/07/25/analytics-engineering-with-dbt.html)|
+
 
 <br/>
 <br/>
