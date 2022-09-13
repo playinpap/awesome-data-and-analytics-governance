@@ -5,7 +5,6 @@
 💡 혹시 아래 리스트에 추가하고 싶은 양질의 자료를 알고 계신가요? [기여 가이드](./CONTRIBUTING.md)를 참고하시어 저희에게 꼭 알려주세요!
 
 <br/>
-<br/>
 
 ## Table of Contents
 
@@ -22,14 +21,12 @@
     * 올바른 데이터 활용을 위해 여러 직군끼리 어떻게 협업해야 할까요?
 
 <br/>
-<br/>
 
 ## Data Logging
   
 * [[Article] 데이터 로그 설계, 데이터 로깅, 이벤트 로그 설계, 데이터 QA의 모든 것](https://zzsza.github.io/data/2021/06/13/data-event-log-definition/)
 * [[Article] 모바일 앱 로그분석, 어떻게 시작해야 할까?](https://brunch.co.kr/@leoyang99/15)
 
-<br/>
 <br/>
 
 ## Data Warehouse / Mart
@@ -44,14 +41,12 @@
 * [[Article] 데이터에 신뢰성과 재사용성까지, Analytics Engineering with dbt](https://tech.socarcorp.kr/data/2022/07/25/analytics-engineering-with-dbt.html)
 
 <br/>
-<br/>
 
 ## Data Discovery
 
 * [[Tool] Datahub](https://datahubproject.io/)
 * [[Article] 데이터 디스커버리 플랫폼 도입기 - 1편. 데이터 디스커버리란?(feat. Datahub VS Amundsen 비교 분석)](https://tech.socarcorp.kr/data/2022/02/25/data-discovery-platform-01.html)
 
-<br/>
 <br/>
 
 ## KPI / Metric
@@ -60,7 +55,6 @@
 * [[Video] Connecting Inputs to Outputs at Udemy](https://amplitude.com/amplify-sessions?wchannelid=emyjmwjf79&wmediaid=rg1ahklebd)
 * [[Slide] Amplitude - North Start Guide Book](https://amplitude.com/north-star)
 
-<br/>
 <br/>
 
 ## Communication
