@@ -34,6 +34,7 @@
 2. 타입
 
 - `Article` : 개인, 기술 블로그 / Medium 등의 아티클
+- `Tool` : 오픈소스, SaaS 등의 도구
 - `Book` : 서적, e-book
 - `Web Site` : 웹사이트
 - `Video` : 영상 자료
