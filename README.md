@@ -51,7 +51,9 @@
 
 * [[Web Site] DMR - Your Home for Statistics and Gadgets](https://expandedramblings.com/)
 * [[Video] Connecting Inputs to Outputs at Udemy](https://amplitude.com/amplify-sessions?wchannelid=emyjmwjf79&wmediaid=rg1ahklebd)
+* [[Article] 한글 번역 - Udemy에서 Input Metric을 Output Metric에 연결하는 방법](https://medium.com/bondata/amplify-2022-udemy-f34c398f4c74)
 * [[Slide] Amplitude - North Start Guide Book](https://amplitude.com/north-star)
+* [[Article] This is How Amazon Measures Itself](https://www.holistics.io/blog/how-amazon-measures/)
 
 <br/>
 
