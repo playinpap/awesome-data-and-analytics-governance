@@ -7,6 +7,17 @@
 <br/>
 <br/>
 
+## Table of Contents
+
+  * [Data Logging](#data-logging)
+  * [Data Warehouse / Mart](#data-warehouse---mart)
+  * [Data Discovery](#data-discovery)
+  * [KPI / Metric](#kpi---metric)
+  * [Communication](#communication)
+
+<br/>
+<br/>
+
 ## Data Logging
 
 - 어떻게 하면 품질 좋은 데이터 수집을 위한 문화와 프로세스를 만들어나갈 수 있을까요?
@@ -33,7 +44,6 @@
 |`Article`|[GitLab - SQL Style Guide](https://about.gitlab.com/handbook/business-technology/data-team/platform/sql-style-guide/)|
 |`Article`|[데이터에 신뢰성과 재사용성까지, Analytics Engineering with dbt](https://tech.socarcorp.kr/data/2022/07/25/analytics-engineering-with-dbt.html)|
 
-
 <br/>
 <br/>
 
@@ -57,6 +67,7 @@
 |-------|-----------------|
 |`Web Site`|[DMR - Your Home for Statistics and Gadgets](https://expandedramblings.com/)|
 |`Video`|[Connecting Inputs to Outputs at Udemy](https://amplitude.com/amplify-sessions?wchannelid=emyjmwjf79&wmediaid=rg1ahklebd)|
+|`Slide`|[Amplitude - North Start Guide Book](https://amplitude.com/north-star)|
 
 
 <br/>
