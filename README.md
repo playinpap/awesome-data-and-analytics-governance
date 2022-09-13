@@ -25,6 +25,7 @@
 
 |Type   |Title            |
 |-------|-----------------|
+|`Tool`   |[dbt: data build tool](https://www.getdbt.com/)|
 |`Book`   |[Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling, 3rd Edition](https://www.amazon.com/Data-Warehouse-Toolkit-Definitive-Dimensional/dp/1118530802)|
 |`Book`   |[데이터 파이프라인 핵심 가이드, 성공적인 데이터 분석을 위한 인프라 설계와 구축](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791158393045)|
 |`Article`|[The Analytics Engineering Guide](https://www.getdbt.com/analytics-engineering/)|
