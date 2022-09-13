@@ -33,7 +33,6 @@
 |`Article`|[GitLab - SQL Style Guide](https://about.gitlab.com/handbook/business-technology/data-team/platform/sql-style-guide/)|
 |`Article`|[데이터에 신뢰성과 재사용성까지, Analytics Engineering with dbt](https://tech.socarcorp.kr/data/2022/07/25/analytics-engineering-with-dbt.html)|
 
-
 <br/>
 <br/>
 
@@ -57,6 +56,7 @@
 |-------|-----------------|
 |`Web Site`|[DMR - Your Home for Statistics and Gadgets](https://expandedramblings.com/)|
 |`Video`|[Connecting Inputs to Outputs at Udemy](https://amplitude.com/amplify-sessions?wchannelid=emyjmwjf79&wmediaid=rg1ahklebd)|
+|`Slide`|[Amplitude - North Start Guide Book](https://amplitude.com/north-star)|
 
 
 <br/>
