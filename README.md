@@ -32,8 +32,12 @@
 ## Data Warehouse / Mart
 
 * [[Tool] dbt: data build tool](https://www.getdbt.com/)
+* [[Tool] greatexpectation: data profiling & quality check tool](https://greatexpectations.io)
+* [[Tool] deequ: data unit testing tool for spark](https://github.com/awslabs/deequ)
+* [[Tool] python-deequ: data unit testing tool for spark](https://github.com/awslabs/python-deequ)
 * [[Book] Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling, 3rd Edition](https://www.amazon.com/Data-Warehouse-Toolkit-Definitive-Dimensional/dp/1118530802)
 * [[Book] 데이터 파이프라인 핵심 가이드, 성공적인 데이터 분석을 위한 인프라 설계와 구축](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791158393045)
+* [[Book] 데이터 중심 애플리케이션 설계](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791158390983&orderClick=LEa&Kc=)
 * [[Article] The Analytics Engineering Guide](https://www.getdbt.com/analytics-engineering/)
 * [[Article] GitLab - SQL Style Guide](https://about.gitlab.com/handbook/business-technology/data-team/platform/sql-style-guide/)
 * [[Article] 데이터에 신뢰성과 재사용성까지, Analytics Engineering with dbt](https://tech.socarcorp.kr/data/2022/07/25/analytics-engineering-with-dbt.html)
@@ -43,17 +47,21 @@
 ## Data Discovery
 
 * [[Tool] Datahub](https://datahubproject.io/)
+* [[Tool] Amundsen](https://www.amundsen.io)
+* [[Tool] Open Data Discovery](https://github.com/opendatadiscovery/odd-platform)
 * [[Article] 데이터 디스커버리 플랫폼 도입기 - 1편. 데이터 디스커버리란?(feat. Datahub VS Amundsen 비교 분석)](https://tech.socarcorp.kr/data/2022/02/25/data-discovery-platform-01.html)
 
 <br/>
 
 ## KPI / Metric
 
+* [[Book] Product Analytics: Applied Data Science Techniques for Actionable Consumer Insights](https://www.amazon.com/Applied-Data-Science-Transforming-Actionable/dp/0135258529)
 * [[Web Site] DMR - Your Home for Statistics and Gadgets](https://expandedramblings.com/)
 * [[Video] Connecting Inputs to Outputs at Udemy](https://amplitude.com/amplify-sessions?wchannelid=emyjmwjf79&wmediaid=rg1ahklebd)
-* [[Article] 한글 번역 - Udemy에서 Input Metric을 Output Metric에 연결하는 방법](https://medium.com/bondata/amplify-2022-udemy-f34c398f4c74)
 * [[Slide] Amplitude - North Start Guide Book](https://amplitude.com/north-star)
+* [[Article] 한글 번역 - Udemy에서 Input Metric을 Output Metric에 연결하는 방법](https://medium.com/bondata/amplify-2022-udemy-f34c398f4c74)
 * [[Article] This is How Amazon Measures Itself](https://www.holistics.io/blog/how-amazon-measures/)
+* [[Article] The Guide to Product Metrics](https://mixpanel.com/de/content/guide-to-product-metrics/full-report/)
 
 <br/>
 
