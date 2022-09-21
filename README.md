@@ -56,6 +56,7 @@
 ## KPI / Metric
 
 * [[Book] Product Analytics: Applied Data Science Techniques for Actionable Consumer Insights](https://www.amazon.com/Applied-Data-Science-Transforming-Actionable/dp/0135258529)
+* [[Book] A Practical Guide to A/B Testing: Trustworthy online controlled experiments](https://www.amazon.com/Trustworthy-Online-Controlled-Experiments-Practical/dp/1108724264)
 * [[Web Site] DMR - Your Home for Statistics and Gadgets](https://expandedramblings.com/)
 * [[Video] Connecting Inputs to Outputs at Udemy](https://amplitude.com/amplify-sessions?wchannelid=emyjmwjf79&wmediaid=rg1ahklebd)
 * [[Slide] Amplitude - North Start Guide Book](https://amplitude.com/north-star)
