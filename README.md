@@ -41,7 +41,6 @@
 * [[Article] The Analytics Engineering Guide](https://www.getdbt.com/analytics-engineering/)
 * [[Article] GitLab - SQL Style Guide](https://about.gitlab.com/handbook/business-technology/data-team/platform/sql-style-guide/)
 * [[Article] 데이터에 신뢰성과 재사용성까지, Analytics Engineering with dbt](https://tech.socarcorp.kr/data/2022/07/25/analytics-engineering-with-dbt.html)
-* [[Article] How Airbnb Achieved Metric Consistency at Scale](https://medium.com/airbnb-engineering/how-airbnb-achieved-metric-consistency-at-scale-f23cc53dea70)[^minerva1]
 * [[Article] How Airbnb Achieved Metric Consistency at Scale](https://medium.com/airbnb-engineering/how-airbnb-achieved-metric-consistency-at-scale-f23cc53dea70)[^metric_standard]
 * [[Article] The Journey Towards Metric Standardization](https://www.uber.com/en-US/blog/umetric/)[^metric_standard]
 
