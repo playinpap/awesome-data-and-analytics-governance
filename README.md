@@ -41,6 +41,8 @@
 * [[Article] The Analytics Engineering Guide](https://www.getdbt.com/analytics-engineering/)
 * [[Article] GitLab - SQL Style Guide](https://about.gitlab.com/handbook/business-technology/data-team/platform/sql-style-guide/)
 * [[Article] 데이터에 신뢰성과 재사용성까지, Analytics Engineering with dbt](https://tech.socarcorp.kr/data/2022/07/25/analytics-engineering-with-dbt.html)
+* [[Article] How Airbnb Achieved Metric Consistency at Scale](https://medium.com/airbnb-engineering/how-airbnb-achieved-metric-consistency-at-scale-f23cc53dea70)[^metric_standard]
+* [[Article] The Journey Towards Metric Standardization](https://www.uber.com/en-US/blog/umetric/)[^metric_standard]
 
 <br/>
 
@@ -70,3 +72,8 @@
 
 * [[Article] 지표선정 자리에서 해야하는 5가지 질문들 — Data Analyst의 컨설팅](https://medium.com/alexandersyoon/%EC%A7%80%ED%91%9C%EC%84%A0%EC%A0%95-%EC%9E%90%EB%A6%AC%EC%97%90%EC%84%9C-%ED%95%B4%EC%95%BC%ED%95%98%EB%8A%94-5%EA%B0%80%EC%A7%80-%EC%A7%88%EB%AC%B8%EB%93%A4-data-analyst-%EC%9D%98-%EC%BB%A8%EC%84%A4%ED%8C%85-f7012d61a572)
 * [[Article] 프로덕트 매니저를 위한 데이터 분석가 협업 가이드 — Product Sprint 편](https://medium.com/alexandersyoon/%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%A7%A4%EB%8B%88%EC%A0%80%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D%EA%B0%80-%ED%98%91%EC%97%85-%EA%B0%80%EC%9D%B4%EB%93%9C-become-best-workplace-buddies-af821839ac7b)
+
+
+## Footnote
+[^metric_standard]: '전사적으로 지표를 어떻게 일관되게 관리할 수 있을지' 고민에 대한 레퍼런스
+
