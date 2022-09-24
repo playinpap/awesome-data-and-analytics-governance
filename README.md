@@ -1,8 +1,21 @@
 # Awesome `Data Governance` [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-데이터 거버넌스 개선을 위한 여러가지 질문들에 답할 수 있는 자료들을 수집합니다.
+`Awesome Data Governance`는 **데이터 거버넌스** 개선에 기여하는 것을 목적으로 합니다. 이 때 데이터 거버넌스란, 데이터를 활용하는 **문화**와 이를 뒷받침할 수 있는 **인프라**, 크게 이 두 축으로 의미를 한정합니다. 목적 달성을 위해 크게 두가지 방식을 사용합니다.
 
-💡 혹시 아래 리스트에 추가하고 싶은 양질의 자료를 알고 계신가요? [기여 가이드](./CONTRIBUTING.md)를 참고하시어 저희에게 꼭 알려주세요!
+1. 데이터 거버넌스 개선에 참고할 수 있는 양질의 자료 수집 : `README.md`
+2. 데이터 거버넌스에 대해 묻고 답하거나 토론할 수 있는 공간 제공 : `Github Issue`
+
+<br/>
+
+## Welcome Your Contributing
+
+본 Repo는 
+
+1. 데이터 거버넌스 개선에 도움이 될만한 좋은 자료를 알고 계신가요? 👉 Awesome 목록에 추가해주세요
+2. 데이터 거버넌스에 대한 궁금증, 또는 이야기 해보고 싶은 주제가 있으신가요? 👉 Github Issue에 아젠다를 띄워주세요
+3. Github Issue에 생성된 아젠다 중, 조언해주실 수 있는 것을 발견하셨나요? 👉 해당 Github Issue에 Comment를 남겨주세요
+
+자세한 기여 방법은 [CONTRIBUTING 가이드](./CONTRIBUTING.md)를 참고해주세요.
 
 <br/>
 
@@ -74,6 +87,7 @@
 * [[Article] 프로덕트 매니저를 위한 데이터 분석가 협업 가이드 — Product Sprint 편](https://medium.com/alexandersyoon/%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%A7%A4%EB%8B%88%EC%A0%80%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D%EA%B0%80-%ED%98%91%EC%97%85-%EA%B0%80%EC%9D%B4%EB%93%9C-become-best-workplace-buddies-af821839ac7b)
 
 
-## Footnote
+### Footnote
+
 [^metric_standard]: '전사적으로 지표를 어떻게 일관되게 관리할 수 있을지' 고민에 대한 레퍼런스
 
