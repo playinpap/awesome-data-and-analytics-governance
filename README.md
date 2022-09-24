@@ -9,11 +9,12 @@
 
 ## Welcome Your Contributing
 
-본 Repo는 
-
-1. 데이터 거버넌스 개선에 도움이 될만한 좋은 자료를 알고 계신가요? 👉 Awesome 목록에 추가해주세요
-2. 데이터 거버넌스에 대한 궁금증, 또는 이야기 해보고 싶은 주제가 있으신가요? 👉 Github Issue에 아젠다를 띄워주세요
-3. Github Issue에 생성된 아젠다 중, 조언해주실 수 있는 것을 발견하셨나요? 👉 해당 Github Issue에 Comment를 남겨주세요
+* 데이터 거버넌스 개선에 도움이 될만한 좋은 자료를 알고 계신가요? 
+  * 👉 **Awesome 목록에 추가해주세요**
+* 데이터 거버넌스에 대한 궁금증, 또는 이야기 해보고 싶은 주제가 있으신가요? 
+  * 👉 **Github Issue에 아젠다를 띄워주세요**
+* Github Issue에 생성된 아젠다 중, 조언해주실 수 있는 것을 발견하셨나요? 
+  * 👉 **해당 Github Issue에 Comment를 남겨주세요**
 
 자세한 기여 방법은 [CONTRIBUTING 가이드](./CONTRIBUTING.md)를 참고해주세요.
 
