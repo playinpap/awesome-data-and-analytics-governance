@@ -96,3 +96,10 @@
   - Github Discussion 탭의 **[New Discussion]** 버튼을 클릭하여 새로운 Agenda를 생성해주세요.
   - `General`, `Ideas`, `Polls`, `Q&A` 중 Agenda 종류에 맞는 Category를 선택해주세요.
   - `culture`, `infra` 중 Agenda 종류에 맞는 Labels를 달아주세요.
+  
+<br/>
+
+---
+### Footnote
+
+[^metric_standard]: '전사적으로 지표를 어떻게 일관되게 관리할 수 있을지' 고민에 대한 레퍼런스
