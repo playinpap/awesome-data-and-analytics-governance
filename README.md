@@ -55,6 +55,7 @@
 
 <br/>
 
+---
 ## [**Awesome Reference**](./CONTENTS.md)
 ```
 🔔 Data & Analytics Governance 수준을 제고시킬 수 있는 양질의 자료를 모아보자
@@ -79,6 +80,7 @@
 
 <br/>
 
+---
 ## [**Awesome Discussion**](https://github.com/playinpap/awesome-data-governance/discussions)
 ```
 🔔 Data & Analytics Governance 관련 사례에 대해서 함께 이야기할 수 있는 공간을 만들자
