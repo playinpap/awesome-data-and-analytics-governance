@@ -5,8 +5,8 @@
 
 인프라와 문화 수준을 파악하고, 개선이 필요한 부분에 도움이 되고, best practice를 서로 공유할 수 있도록 아래 3가지의 목표를 설정했고 그에 따른 장치들을 마련했습니다.
 1. Data & Analytics Governance 수준을 파악할 수 있는 진단지를 만들자 : [**Awesome Diagnosis**](#awesome-diagnosis)
-2. Data & Analytics Governance 수준을 제고시킬 수 있는 양질의 자료를 모아보자 : [**Awesome Reference (CONTENTS.md)**](./CONTENTS.md)
-3. Data & Analytics Governance 관련 사례에 대해서 함께 이야기할 수 있는 공간을 만들자 : [**Awesome Discussion**](https://github.com/playinpap/awesome-data-governance/discussions)
+2. Data & Analytics Governance 수준을 제고시킬 수 있는 양질의 자료를 모아보자 : [**Awesome Reference (CONTENTS.md)**](#awesome-reference)
+3. Data & Analytics Governance 관련 사례에 대해서 함께 이야기할 수 있는 공간을 만들자 : [**Awesome Discussion**](#awesome-discussion)
 
 `Awesome Data & Analytics Governance`는 위의 3가지의 결과물을 모아둔 저장소이자, 관련 지식 플랫폼이 될 수 있도록 나아갈 예정입니다.  
 이를 통해서 IT 업계 전반의 `Data & Analytics Governance` 수준이 향상될 수 있기를 희망합니다. 🙏
@@ -56,13 +56,13 @@
 <br/>
 
 ---
-## [**Awesome Reference**](./CONTENTS.md)
+## Awesome Reference
 ```
 🔔 Data & Analytics Governance 수준을 제고시킬 수 있는 양질의 자료를 모아보자
 ```
 아래 6개의 주제를 바탕으로 `Data & Analytics Governance` 향상에 도움될 수 있는 국내 및 해외의 레퍼런스들을 모아두었습니다.   
 참고하기 좋은 글들, 실제 참고해본 글들을 위주로 해당 페이지를 채워나갈 예정입니다.  
-혹시 공유하고 싶은 좋은 글이 있다면, 여기에 공유해보시는 것은 어떠하실까요?
+혹시 공유하고 싶은 좋은 글이 있다면, 여기에 공유해보시는 것은 어떠하실까요? 👉 [**Awesome Reference 바로가기**](./CONTENTS.md)
 
 * [KPI / Metric](CONTENTS.md/#kpi---metric)
   * 좋은 정량적인 목표, 지표를 개발하기 위해선 어떻게 해야할까요?
@@ -81,12 +81,12 @@
 <br/>
 
 ---
-## [**Awesome Discussion**](https://github.com/playinpap/awesome-data-governance/discussions)
+## Awesome Discussion
 ```
 🔔 Data & Analytics Governance 관련 사례에 대해서 함께 이야기할 수 있는 공간을 만들자
 ```
-누구나 고민을 던지고 답할 수 있는 공간을 마련해두었습니다. 이 공간에서 자유롭게 서로의 고민을 해소하고 경험을 나누기를 희망합니다.    
-여러분의 소중한 경험과 의견이 누군가에게 큰 도움이 될 수 있습니다. 🙏
+누구나 고민을 던지고 답할 수 있는 공간을 마련해두었습니다. 이 공간에서 자유롭게 서로의 고민을 해소하고 경험을 나누기를 희망합니다. 🙏
+여러분의 소중한 경험과 의견이 누군가에게 큰 도움이 될 수 있습니다. 👉 [**Awesome Discussion 바로가기**](https://github.com/playinpap/awesome-data-governance/discussions)
 
 **생성된 Agenda에 참여하기**
   - Github Discussion 탭에 진입하면 생성된 Agenda들을 확인 수 있습니다.
