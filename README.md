@@ -49,7 +49,7 @@
   * 진단지 Link : [Data & Analytics Governance 진단지 - 데이터 사용자 편 (Sample)](https://docs.google.com/forms/d/e/1FAIpQLSf1fzXXwUD-1Aj2YT4Sygxk4bc6OIdcs6fKF6za3zk-VNJBVw/viewform?usp=sharing)
   * 설문 점수 배점표 : [데이터 사용자 편 (Sample)](https://docs.google.com/spreadsheets/d/16CxhoEn508SdVJc3ocCjphx8eSmO50AVxz4g_lcDOoI/edit?usp=sharing)
 
-### 진단지 접근 권한 요청 시,
+### ※ 진단지 접근 권한 요청 시,
   * 소속, 요청 사유(간단히) 작성 부탁드리겠습니다.
   * 단순하게 파악하기 위해서 수집하려고 합니다. (큰 의미는 없습니다.)
 
