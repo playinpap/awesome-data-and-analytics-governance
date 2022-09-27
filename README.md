@@ -5,7 +5,7 @@
 
 인프라와 문화 수준을 파악하고, 개선이 필요한 부분에 도움이 되고, best practice를 서로 공유할 수 있도록 아래 3가지의 목표를 설정했고 그에 따른 장치들을 마련했습니다.
 1. Data & Analytics Governance 수준을 파악할 수 있는 진단지를 만들자 : [**Awesome Diagnosis**](#awesome-diagnosis)
-2. Data & Analytics Governance 수준을 제고시킬 수 있는 양질의 자료를 모아보자 : [**Awesome Reference (CONTENTS.md)**](#awesome-reference)
+2. Data & Analytics Governance 수준을 제고시킬 수 있는 양질의 자료를 모아보자 : [**Awesome Reference**](#awesome-reference)
 3. Data & Analytics Governance 관련 사례에 대해서 함께 이야기할 수 있는 공간을 만들자 : [**Awesome Discussion**](#awesome-discussion)
 
 `Awesome Data & Analytics Governance`는 위의 3가지의 결과물을 모아둔 저장소이자, 관련 지식 플랫폼이 될 수 있도록 나아갈 예정입니다.  
