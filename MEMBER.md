@@ -26,7 +26,7 @@
   * Contact : [**LinkedIn**](https://www.linkedin.com/in/jsaang/)
   * Comment :
     ```
-		비즈니스와 프로덕트를 성장시키는 분석을 하고 싶습니다.
+    비즈니스와 프로덕트를 성장시키는 분석을 하고 싶습니다.
     ```
 
 ### 최창식 [(Github)](https://github.com/GraphTree)
@@ -34,7 +34,7 @@
   * Contact : [**LinkedIn**](https://www.linkedin.com/in/changsikchoi/)
   * Comment :
     ```
-		데이터와 이야기로 세상을 이해하고 싶습니다.
+    데이터와 이야기로 세상을 이해하고 싶습니다.
     ```
 
 ### 이강훈 [(Github)](https://github.com/Hooniing)
@@ -43,7 +43,7 @@
   * Hashtag : #data, #strategy, #fin-tech
   * Comment :
     ```
-		기술과 비즈니스 전 영역에 관심이 많습니다. 아직은 데이터 뉴비지만, 전사의 전략 수립에 데이터를 활용하고자 공부중입니다.
+    기술과 비즈니스 전 영역에 관심이 많습니다. 아직은 데이터 뉴비지만, 전사의 전략 수립에 데이터를 활용하고자 공부중입니다.
     ```
 
 ### 정송 [(Github)](https://github.com/andrejung)
