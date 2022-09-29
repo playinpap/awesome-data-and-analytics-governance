@@ -38,7 +38,7 @@
     ```
 
 ### 이강훈 [(Github)](https://github.com/Hooniing)
-  * Worked at : **Kakaopay**
+  * Work at : **Kakaopay**
   * Contact : [**LinkedIn**](https://www.linkedin.com/in/kanghoon-lee/)
   * Hashtag : #data, #strategy, #fin-tech
   * Comment :
