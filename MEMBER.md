@@ -2,7 +2,7 @@
 ### 박종익 [(Github)](https://github.com/jongikp)
   * Work at : [**QANDA**](https://team.mathpresso.com/)
   * Contact : [**LinkedIn**](https://www.linkedin.com/in/jongikpark/)
-  * Hashtag : #데이터잡부, #project-lead, #analytics-engineering
+  * Hashtag : #데이터잡부 #project-lead #analytics-engineering
   * Comment :
     ```
     누구나 데이터를 편하게 다룰 수 있는 환경을 만들고 싶은 소망이 있습니다.   
@@ -13,7 +13,7 @@
 ### 최보경 [(Github)](https://github.com/BokyungChoi)
   * Work at : [**NAVER**](https://medium.com/naver-dna-tech-blog)
   * Contact : [**LinkedIn**](https://www.linkedin.com/in/b-choi/)
-  * Hashtag : #data-analytics, #product-analytics, #pap가즈아
+  * Hashtag : #data-analytics #product-analytics #pap가즈아
   * Comment :
     ```
     현재 네이버 검색에서 데이터 분석 업무를 하고 있습니다. 데이터에서 인과관계를 정의하는 데이터 분석 방법론과 사용자 만족도 지표를 탐구하고 있습니다. 
@@ -40,7 +40,7 @@
 ### 이강훈 [(Github)](https://github.com/Hooniing)
   * Work at : **Kakaopay**
   * Contact : [**LinkedIn**](https://www.linkedin.com/in/kanghoon-lee/)
-  * Hashtag : #data, #strategy, #fin-tech
+  * Hashtag : #data #strategy #fin-tech
   * Comment :
     ```
     기술과 비즈니스 전 영역에 관심이 많습니다. 아직은 데이터 뉴비지만, 전사의 전략 수립에 데이터를 활용하고자 공부중입니다.
