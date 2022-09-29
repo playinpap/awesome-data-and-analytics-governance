@@ -10,7 +10,8 @@
 
 `Awesome Data & Analytics Governance`는 위의 3가지의 결과물을 모아둔 저장소이자, 관련 지식 플랫폼이 될 수 있도록 나아갈 예정입니다.  
 이를 통해서 IT 업계 전반의 `Data & Analytics Governance` 수준이 향상될 수 있기를 희망합니다. 🙏   
-👉 [**Project Member 소개 바로가기**](./MEMBER.md)  
+
+👉 [**Project Member 소개 바로가기**](./MEMBER.md)
 
 <br/>
 
