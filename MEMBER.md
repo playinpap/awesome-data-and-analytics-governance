@@ -50,3 +50,6 @@
   * Work at : [**QANDA**](https://team.mathpresso.com/)
   * Contact : [**LinkedIn**](https://www.linkedin.com/in/pine0527/)
 
+### 조우진 [(Github)](https://github.com/not-for-me)
+  * Work at : 
+  * Contact : [**LinkedIn**](https://www.linkedin.com/in/notforme/)
