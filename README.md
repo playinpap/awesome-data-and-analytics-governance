@@ -88,7 +88,8 @@
 ```
 🔔 Data & Analytics Governance 관련 사례에 대해서 함께 이야기할 수 있는 공간을 만들자
 ```
-누구나 고민을 던지고 답할 수 있는 공간을 마련해두었습니다. 이 공간에서 자유롭게 서로의 고민을 해소하고 경험을 나누기를 희망합니다. 🙏   
+누구나 고민을 던지고 답할 수 있는 공간을 마련해두었습니다.    
+이 공간에서 자유롭게 서로의 고민을 해소하고 경험을 나누기를 희망합니다. 🙏   
 여러분의 소중한 경험과 의견이 누군가에게 큰 도움이 될 수 있습니다. 👉 [**Awesome Discussion 바로가기**](https://github.com/playinpap/awesome-data-governance/discussions)
 
 **생성된 Agenda에 참여하기**
