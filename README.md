@@ -63,7 +63,7 @@
 ```
 🔔 Data & Analytics Governance 수준을 제고시킬 수 있는 양질의 자료를 모아보자
 ```
-아래 6개의 주제를 바탕으로 `Data & Analytics Governance` 향상에 도움될 수 있는 국내 및 해외의 레퍼런스들을 모아두었습니다.   
+`Data & Analytics Governance` 향상에 도움될 수 있는 국내 및 해외의 레퍼런스들을 모으고 있습니다.   
 참고하기 좋은 글들, 실제 참고해본 글들을 위주로 해당 페이지를 채워나갈 예정입니다. 👉 [**Awesome Reference 바로가기**](./CONTENTS.md)  
 혹시 공유하고 싶은 좋은 글이 있다면, 여기에 공유해보시는 것은 어떠하실까요?
 
