@@ -9,7 +9,8 @@
 2. Data & Analytics Governance 수준을 제고시킬 수 있는 양질의 자료를 모아보자 : [**Awesome Reference**](#awesome-reference)
 3. Data & Analytics Governance 관련 사례에 대해서 함께 이야기할 수 있는 공간을 만들자 : [**Awesome Discussion**](#awesome-discussion)
 
-`Awesome Data & Analytics Governance`는 위의 3가지의 결과물을 모아둔 저장소이자, 관련 지식 플랫폼이 될 수 있도록 나아갈 예정입니다.  
+`Awesome Data & Analytics Governance`는 함께 지식을 나누는 공간, 함께 생각을 나누는 공간으로,    
+데이터 종사자 및 관련 직군분들에게 유용한 지식 플랫폼이 될 수 있도록 나아갈 예정입니다.  
 이를 통해서 IT 업계 전반의 `Data & Analytics Governance` 수준이 향상될 수 있기를 희망합니다. 🙏   
 
 👉 [**Project Member 소개 바로가기**](./MEMBER.md)
