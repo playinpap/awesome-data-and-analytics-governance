@@ -5,7 +5,8 @@
 
 인프라와 문화 수준을 파악하고, 개선이 필요한 부분에 도움이 되고, best practice를 서로 공유할 수 있도록   
 아래 3가지의 목표를 설정했고 그에 따른 장치들을 마련했습니다.
-1. Data & Analytics Governance 수준을 파악할 수 있는 진단지를 만들자 : [**Awesome Diagnosis**](#awesome-diagnosis)
+1. Data & Analytics Governance 수준을 파악할 수 있는 진단지를 만들자 : [**Awesome Diagnosis**](#awesome-diagnosis) <br/>
+    a. 3분 만에 확인하는 나와 회사의 데이터 능력치 테스트 : [**데이터 세계 속 나는 누구, 여긴 어디?**](https://simte.xyz/papanalyticsgovernance)
 2. Data & Analytics Governance 수준을 제고시킬 수 있는 양질의 자료를 모아보자 : [**Awesome Reference**](#awesome-reference)
 3. Data & Analytics Governance 관련 사례에 대해서 함께 이야기할 수 있는 공간을 만들자 : [**Awesome Discussion**](#awesome-discussion)
 
@@ -56,6 +57,13 @@
 ### ※ 진단지 접근 권한 요청 시,
   * 소속, 요청 사유(간단히) 작성 부탁드리겠습니다.
   * 단순하게 파악하기 위해서 수집하려고 합니다. (큰 의미는 없습니다.)
+  
+### 3분 만에 확인하는 나와 회사의 데이터 능력치 테스트
+  * 주 사용자 정의 : 데이터 전담 조직 외의 비개발 구성원들이나, 재미 요소로 해보는 테스트이기에 데이터 전담 조직 구성원들도 참여 가능합니다.
+  * 테스트 Link : [**데이터 세계 속 나는 누구, 여긴 어디?**](https://simte.xyz/papanalyticsgovernance)
+  * 목적 : 진단지를 더 많은 분들이 가볍게 해보시면서, 재미를 느끼는 동시에 데이터 활용에 대해 관심을 가지시길 바라며 제작하였습니다. 
+  * 예시 이미지 
+    <img width="993" alt="image" src="https://user-images.githubusercontent.com/39907231/193843433-7168b707-9c6d-4b8a-ad4f-b22301a18c44.png">
 
 <br/>
 
