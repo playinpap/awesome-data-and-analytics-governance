@@ -5,8 +5,9 @@
 
 인프라와 문화 수준을 파악하고, 개선이 필요한 부분에 도움이 되고, best practice를 서로 공유할 수 있도록   
 아래 3가지의 목표를 설정했고 그에 따른 장치들을 마련했습니다.
-1. Data & Analytics Governance 수준을 파악할 수 있는 진단지를 만들자 : [**Awesome Diagnosis**](#awesome-diagnosis) <br/>
-    a. 3분 만에 확인하는 나와 회사의 데이터 능력치 테스트 : [**데이터 세계 속 나는 누구, 여긴 어디?**](https://simte.xyz/papanalyticsgovernance)
+1. Data & Analytics Governance 수준을 파악할 수 있는 진단지를 만들자 : [**Awesome Diagnosis**](#awesome-diagnosis)   
+    a. 회사 구성원 대상으로 진단할 수 있는 설문지
+    b. 3분 만에 확인하는 나와 회사의 데이터 능력치 테스트 : [**데이터 세계 속 나는 누구, 여긴 어디?**](https://simte.xyz/papanalyticsgovernance)
 2. Data & Analytics Governance 수준을 제고시킬 수 있는 양질의 자료를 모아보자 : [**Awesome Reference**](#awesome-reference)
 3. Data & Analytics Governance 관련 사례에 대해서 함께 이야기할 수 있는 공간을 만들자 : [**Awesome Discussion**](#awesome-discussion)
 
@@ -37,6 +38,7 @@
 ```
 🔔 Data & Analytics Governance 수준을 파악할 수 있는 진단지를 만들자
 ```
+### a. 회사 구성원 대상으로 진단할 수 있는 설문지
 주변의 `Data & Analytics Governance` 수준을 평가해볼 수 있는 진단지를 만들었습니다.   
 데이터 가공자, 데이터 사용자 를 대상으로 각각 진단지를 만들었습니다.   
 
@@ -44,21 +46,21 @@
 권한을 부여받은 후에는, 원본 설문지는 수정하지 마시고 반드시 <span style="color:red">**사본 만들기**</span>를 한 후 그 위에서 진행 부탁드립니다. 🙏   
 (※ 원본 위에서 진행하면, 설문 결과가 원본 설문지를 갖고 있는 모든 분들이 볼 수 있게 됩니다.)
 
-### 데이터 가공자 진단지
+#### 데이터 가공자 진단지
   * 가공자 정의 : 데이터 전담 조직의 구성원들 (e.g. Data Analyst, Data Engineer, Data Scientist, ...)
   * 진단지 Link : [Data & Analytics Governance 진단지 - 데이터 가공자 편 (Sample)](https://docs.google.com/forms/d/e/1FAIpQLSdCh4TMcS-RKJsR0g_3vtG6mCs5M295hZztQGXfvstknZyTgg/viewform?usp=sharing)
   * 설문 점수 배점표 : [데이터 가공자 편 (Sample)](https://docs.google.com/spreadsheets/d/16CxhoEn508SdVJc3ocCjphx8eSmO50AVxz4g_lcDOoI/edit?usp=sharing)
 
-### 데이터 사용자 진단지
+#### 데이터 사용자 진단지
   * 사용자 정의 : 데이터 전담 조직 외의 비개발 구성원들 (e.g. Marketer, Designer, Operation, ...)
   * 진단지 Link : [Data & Analytics Governance 진단지 - 데이터 사용자 편 (Sample)](https://docs.google.com/forms/d/e/1FAIpQLSf1fzXXwUD-1Aj2YT4Sygxk4bc6OIdcs6fKF6za3zk-VNJBVw/viewform?usp=sharing)
   * 설문 점수 배점표 : [데이터 사용자 편 (Sample)](https://docs.google.com/spreadsheets/d/16CxhoEn508SdVJc3ocCjphx8eSmO50AVxz4g_lcDOoI/edit?usp=sharing)
 
-### ※ 진단지 접근 권한 요청 시,
+#### ※ 진단지 접근 권한 요청 시,
   * 소속, 요청 사유(간단히) 작성 부탁드리겠습니다.
   * 단순하게 파악하기 위해서 수집하려고 합니다. (큰 의미는 없습니다.)
   
-### 3분 만에 확인하는 나와 회사의 데이터 능력치 테스트
+### b. 3분 만에 확인하는 나와 회사의 데이터 능력치 테스트
   * 주 사용자 정의 : 데이터 전담 조직 외의 비개발 구성원들이나, 재미 요소로 해보는 테스트이기에 데이터 전담 조직 구성원들도 참여 가능합니다.
   * 테스트 Link : [**데이터 세계 속 나는 누구, 여긴 어디?**](https://simte.xyz/papanalyticsgovernance)
   * 목적 : 진단지를 더 많은 분들이 가볍게 해보시면서, 재미를 느끼는 동시에 데이터 활용에 대해 관심을 가지시길 바라며 제작하였습니다. 
