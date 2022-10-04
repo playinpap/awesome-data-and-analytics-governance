@@ -6,7 +6,7 @@
 인프라와 문화 수준을 파악하고, 개선이 필요한 부분에 도움이 되고, best practice를 서로 공유할 수 있도록   
 아래 3가지의 목표를 설정했고 그에 따른 장치들을 마련했습니다.
 1. Data & Analytics Governance 수준을 파악할 수 있는 진단지를 만들자 : [**Awesome Diagnosis**](#awesome-diagnosis)   
-    a. 회사 구성원 대상으로 진단할 수 있는 설문지
+    a. 회사 구성원 대상으로 진단할 수 있는 설문지   
     b. 3분 만에 확인하는 나와 회사의 데이터 능력치 테스트 : [**데이터 세계 속 나는 누구, 여긴 어디?**](https://simte.xyz/papanalyticsgovernance)
 2. Data & Analytics Governance 수준을 제고시킬 수 있는 양질의 자료를 모아보자 : [**Awesome Reference**](#awesome-reference)
 3. Data & Analytics Governance 관련 사례에 대해서 함께 이야기할 수 있는 공간을 만들자 : [**Awesome Discussion**](#awesome-discussion)
