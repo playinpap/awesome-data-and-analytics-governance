@@ -48,7 +48,7 @@
 
 #### 데이터 가공자 진단지
   * 가공자 정의 : 데이터 전담 조직의 구성원들 (e.g. Data Analyst, Data Engineer, Data Scientist, ...)
-  * 진단지 Link : [Data & Analytics Governance 진단지 - 데이터 가공자 편 (Sample)](https://docs.google.com/forms/d/e/1FAIpQLSdCh4TMcS-RKJsR0g_3vtG6mCs5M295hZztQGXfvstknZyTgg/viewform?usp=sharing)
+  * 진단지 Link : [Data & Analytics Governance 진단지 - 데이터 가공자 편 (Sample)](https://docs.google.com/forms/d/e/1FAIpQLSezsuF6cQCPYKTCBDFN7Si6yoWrbY1aYjqs91ldiSoP453hIQ/viewform?usp=sharing)
   * 설문 점수 배점표 : [데이터 가공자 편 (Sample)](https://docs.google.com/spreadsheets/d/16CxhoEn508SdVJc3ocCjphx8eSmO50AVxz4g_lcDOoI/edit?usp=sharing)
 
 #### 데이터 사용자 진단지
