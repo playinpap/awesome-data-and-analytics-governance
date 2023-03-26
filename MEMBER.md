@@ -1,6 +1,6 @@
 # Project Member
 ### 박종익 [(Github)](https://github.com/jongikp)
-  * Work at : [**QANDA**](https://team.mathpresso.com/)
+  * Work at : [**Toss Place**](https://tossplace.com/)
   * Contact : [**LinkedIn**](https://www.linkedin.com/in/jongikpark/)
   * Hashtag : #데이터잡부 #project-lead #analytics-engineering
   * Comment :
